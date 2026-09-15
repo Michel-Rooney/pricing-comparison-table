@@ -22,7 +22,7 @@ It focuses on semantic table markup, strong visual hierarchy, and a simple stati
 - Simple responsive styling centered on the page
 - Static deployment with GitHub Pages
 
-## Preview
+## Example
 
 ![Pricing comparison table preview](./pricing-comparison-table.png)
 
